@@ -1,4 +1,4 @@
-# race-recommendation-skill · 选赛道推荐与诊断技能
+# track-recommendation-skill · 选赛道推荐与诊断技能
 
 > 面向内容创作者 / 自媒体 / 个人 IP 的「赛道选择」技能：**采集用户信息 → 分析壁垒/天赋/需求 → 一次推荐 3–5 个候选赛道**（每个含推荐理由、适配度评分、证据依据、收窄路径示例、第一付费产品预设），并提供「这个赛道能不能做」的诊断模式。
 
@@ -28,7 +28,7 @@
 ## 目录结构
 
 ```
-race-recommendation-skill/
+track-recommendation-skill/
 ├── SKILL.md                          # 技能入口：定位/触发/推荐主流程/诊断模式/输出契约/铁律
 ├── references/
 │   ├── 01-methodology.md             # 方法论：D×I×S÷C 模型、T1-T8、市场轴 M1-M4、变现轴 V1-V7、四象限、P-1~P-6 判据、高信噪比信号
