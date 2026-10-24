@@ -1,6 +1,6 @@
 # 采集表 / 提问脚本 / 评分卡 / 交付模板（02-interview-and-templates）
 
-> 本文件是 race-recommendation-skill 的 Step 1 与 Step 4 展开细则，模板可直接复制使用。
+> 本文件是 track-recommendation-skill 的 Step 1 与 Step 4 展开细则，模板可直接复制使用。
 
 ## 1. 必采信息清单
 
