@@ -1,6 +1,6 @@
 # 方法论（01-methodology）
 
-> 本文件是 race-recommendation-skill 的 Step 2–3 展开细则：核心模型、分类体系、判据与信号。
+> 本文件是 track-recommendation-skill 的 Step 2–3 展开细则：核心模型、分类体系、判据与信号。
 
 ## 1. D×I×S÷C 乘法模型（赛道 = 串联系统）
 
