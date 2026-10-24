@@ -1,9 +1,9 @@
 ---
-name: race-recommendation-skill
+name: track-recommendation-skill
 description: "选赛道推荐与诊断技能：当用户说『帮我推荐几个赛道』『我适合做什么赛道』『选赛道』『做什么方向』『账号定位』『我不知道拍什么』『这个赛道能不能做』『帮我评估一下这个方向』时使用。核心：采集用户信息→分析壁垒/天赋/需求→一次推荐 3-5 个候选赛道（各含推荐理由+适配度评分+证据依据+收窄路径示例+第一付费产品预设）；诊断模式对已明确候选做七步可行性判断。"
 ---
 
-# race-recommendation-skill・选赛道推荐与诊断技能
+# track-recommendation-skill・选赛道推荐与诊断技能
 
 ## 定位（这是什么，一句话）
 
